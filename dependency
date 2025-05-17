@@ -1,0 +1,12 @@
+Install dependency:
+
+
+sudo apt update
+sudo apt install -y \
+  ffmpeg \
+  vlc \
+  bc \
+  awk \
+  grep \
+  sed \
+  coreutils
